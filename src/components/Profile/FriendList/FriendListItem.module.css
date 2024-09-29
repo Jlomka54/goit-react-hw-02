@@ -1,0 +1,12 @@
+.info {
+  margin-top: 10px;
+  font-weight: 700;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
