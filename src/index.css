@@ -13,7 +13,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -29,18 +28,16 @@ img {
   display: block;
 }
 
-ul,
-ol {
-  list-style: none;
-}
-
 a {
   text-decoration: none;
   color: inherit;
 }
 
 button {
-  background: none;
-  border: none;
   cursor: pointer;
+}
+
+ul,
+ol {
+  list-style: none;
 }
